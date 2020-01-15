@@ -1,0 +1,5 @@
+C:\Users\mrbug\source\repos\SortBigFileLib\SortBigFileLib\bin\x64\Debug\SortBigFileLib.dll
+C:\Users\mrbug\source\repos\SortBigFileLib\SortBigFileLib\bin\x64\Debug\SortBigFileLib.pdb
+C:\Users\mrbug\source\repos\SortBigFileLib\SortBigFileLib\obj\x64\Debug\SortBigFileLib.csprojAssemblyReference.cache
+C:\Users\mrbug\source\repos\SortBigFileLib\SortBigFileLib\obj\x64\Debug\SortBigFileLib.dll
+C:\Users\mrbug\source\repos\SortBigFileLib\SortBigFileLib\obj\x64\Debug\SortBigFileLib.pdb
